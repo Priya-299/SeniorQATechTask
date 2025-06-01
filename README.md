@@ -2,7 +2,7 @@
 # Playwright automation using TypeScript
 # Project Structure
 # Repo URL : https://github.com/spmkarthikeyan/SeniorQATechTask.git
-# creating subbranch
+# creating subbranch l;ljhhoh
 
 SeniorQATechTask
 --.github
